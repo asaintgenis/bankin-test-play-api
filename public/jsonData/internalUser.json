@@ -1,0 +1,12 @@
+{
+  "resources": [
+    {
+      "mail": "user1@mail.com",
+      "password": "a!Strongp#assword1"
+    },
+    {
+      "mail": "user2@mail.com",
+      "password": "a!Strongp#assword2"
+    }
+  ]
+}
